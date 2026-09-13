@@ -78,10 +78,8 @@ Closes the ATM menu and displays a goodbye message.
 
 Watch the project demonstration video:
 
-▶️ Watch the Demo Video
-
-Replace YOUR_YOUTUBE_LINK_HERE with your YouTube video link.
-
+[▶️ Watch the Demo Video
+](https://lnkd.in/p/eV4iQR3n)
 🚀 What I Learned
 
 Through this project, I practiced how to:
