@@ -80,6 +80,7 @@ Watch the project demonstration video:
 
 [▶️ Watch the Demo Video
 ](https://lnkd.in/p/eV4iQR3n)
+
 🚀 What I Learned
 
 Through this project, I practiced how to:
