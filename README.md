@@ -100,6 +100,6 @@ Simple-ATM-System/
 
 Mina Boles
 
-Software QA Tester | Java Learner
+Software QA Tester 
 
 ⭐ This project is part of my journey in learning Java and building practical projects for Software Testing.
